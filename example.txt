@@ -1,2 +1,4 @@
 GitHub is a web-based platform that enables developers to collaborate on code,
 track changes, and manage projects.
+GitHub is a hub for open-source collaboration and software development, 
+offering a rich set of tools for managing projects efficiently.
